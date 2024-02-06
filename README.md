@@ -6,3 +6,7 @@
 careful planning and quick reflexes required to avoid collisions with snake's body or game boundaries.
 
 ->Showcases the capabilities of vanilla JavaScript in crafting an enjoyable and nostalgic gaming adventure.
+
+                       Try it out once by below link
+                       
+   ----->    https://inspiring-ganache-f82f5a.netlify.app/     <-----
